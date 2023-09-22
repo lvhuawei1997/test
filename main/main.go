@@ -1,7 +1,18 @@
 package main
 
-import "fmt"
+// TODO: 获取日志
+func getLog() {
+
+}
+
+func processLog() {
+
+}
+
+func showLog() {
+
+}
 
 func main() {
-	fmt.Println("hello world")
+
 }
