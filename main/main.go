@@ -82,6 +82,7 @@ func showLog(logEntries []string) {
 		fmt.Printf("Log Entry: %s\n", entry)
 		fmt.Printf("Date: %s, Level: %s\n", date, errorMessage)
 		fmt.Println()
+		fmt.Println("-----------")
 	}
 }
 
